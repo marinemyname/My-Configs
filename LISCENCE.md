@@ -4,6 +4,8 @@ Copyright (c) 2026 marinemyname
 
 Anyone is allowed to edit, change, modify, share, and use this project or its contents.
 
+Most of this project is from sleepycathey, so credit goes to sleepycathey.
+
 I do not own any of the websites, services, or platforms referenced or used in this project.
 I simply use them. All rights, trademarks, and ownership for those websites and services
 belong to their respective owners.
